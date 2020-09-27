@@ -1,17 +1,17 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
-/ui/dist
-/ui/tmp
-/ui/out-tsc
+/ui/AngularTest/dist
+/ui/AngularTest/tmp
+/ui/AngularTest/out-tsc
 # Only exists if Bazel was run
-/ui/bazel-out
+/ui/AngularTest/bazel-out
 
 # dependencies
-/ui/node_modules
+/ui/AngularTest/node_modules
 
 # profiling files
-/ui/chrome-profiler-events*.json
+/ui/AngularTest/chrome-profiler-events*.json
 speed-measure-plugin*.json
 
 # IDEs and editors
@@ -32,14 +32,14 @@ speed-measure-plugin*.json
 .history/*
 
 # misc
-/ui/.sass-cache
-/ui/connect.lock
-/ui/coverage
-/ui/libpeerconnection.log
+/ui/AngularTest/.sass-cache
+/ui/AngularTest/connect.lock
+/ui/AngularTest/coverage
+/ui/AngularTest/libpeerconnection.log
 npm-debug.log
 yarn-error.log
 testem.log
-/ui/typings
+/ui/AngularTest/typings
 
 # System Files
 .DS_Store
