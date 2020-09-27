@@ -1,9 +1,9 @@
 from flask import Flask, request, send_from_directory
 import os
 
-# os.chdir("../ui/AngularTest")
-# print(os.getcwd())
-# os.system("ng build --outputPath=../../backend/static")
+os.chdir("../ui/")
+print(os.getcwd())
+os.system("ng build --outputPath=../backend/static")
 
 
 app = Flask(__name__, static_url_path='/static')

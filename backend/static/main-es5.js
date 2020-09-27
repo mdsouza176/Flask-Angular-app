@@ -202,7 +202,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var AppComponent = function AppComponent() {
       _classCallCheck(this, AppComponent);
 
-      this.title = 'AngularTest';
+      this.title = 'ui';
     };
 
     AppComponent.ɵfac = function AppComponent_Factory(t) {
@@ -1059,7 +1059,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! C:\Users\melro\Documents\Angular-apps\Angular-flask-project\ui\AngularTest\src\main.ts */
+    /*! C:\Users\melro\Documents\Angular-apps\Angular-flask-project\ui\src\main.ts */
     "./src/main.ts");
     /***/
   }

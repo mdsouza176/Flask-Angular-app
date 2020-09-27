@@ -464,7 +464,7 @@
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! C:\Users\melro\Documents\Angular-apps\Angular-flask-project\ui\AngularTest\src\styles.css */
+    /*! C:\Users\melro\Documents\Angular-apps\Angular-flask-project\ui\src\styles.css */
     "./src/styles.css");
     /***/
   }

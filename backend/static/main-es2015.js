@@ -106,7 +106,7 @@ function AppComponent_pre_90_Template(rf, ctx) { if (rf & 1) {
 } }
 class AppComponent {
     constructor() {
-        this.title = 'AngularTest';
+        this.title = 'ui';
     }
 }
 AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(); };
@@ -533,7 +533,7 @@ _angular_platform_browser__WEBPACK_IMPORTED_MODULE_3__["platformBrowser"]().boot
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\melro\Documents\Angular-apps\Angular-flask-project\ui\AngularTest\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! C:\Users\melro\Documents\Angular-apps\Angular-flask-project\ui\src\main.ts */"./src/main.ts");
 
 
 /***/ })
